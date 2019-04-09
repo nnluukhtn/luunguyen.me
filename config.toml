@@ -1,6 +1,9 @@
 baseURL = "https://luunguyen.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
+enableEmoji = true
+# Set the unicode character used for the "return" link in page footnotes.
+footnotereturnlinkcontents = "↩"
 title = "Luu Nguyen's Blog"
 theme = "cupper-hugo-theme"
 googleAnalytics = "UA-60116345-1"
@@ -16,8 +19,8 @@ disqusShortname = "nnluukhtn"
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
+  description = "A daddy, software engineer, currently Engineering Lead at [Hubble](https://hubble.sg/), focused on building and running Vietnam engineering team."
+  homeMetaContent = "a daddy, software engineer, currently Engineering Lead at [Hubble](https://hubble.sg/), focused on building and running Vietnam engineering team."
   footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"

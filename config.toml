@@ -26,6 +26,7 @@ disqusShortname = "nnluukhtn"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "nnluukhtn"
+  images = ["about/about_me.jpg"]
 
 [menu]
   [[menu.nav]]

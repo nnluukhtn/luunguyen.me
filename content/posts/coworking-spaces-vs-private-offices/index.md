@@ -1,7 +1,7 @@
 ---
 title: "Coworking Spaces vs Private Offices"
 date: 2019-06-06T16:31:57+07:00
-draft: true
+draft: false
 tags: [building Hubble Vietnam team]
 ---
 

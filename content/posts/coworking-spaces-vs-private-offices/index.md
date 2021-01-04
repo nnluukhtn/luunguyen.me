@@ -6,6 +6,8 @@ tags:
   - Hubble-Vietnam
   - management
   - leadership
+images:
+  - wework-offices-1200x800.jpg
 ---
 
 {{< figure

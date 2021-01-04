@@ -4,6 +4,8 @@ date: 2019-12-31T16:00:41+07:00
 draft: false
 tags:
   - annually-review
+images:
+  - Advance-Happy-New-Year-2020.jpg
 ---
 
 {{< figure

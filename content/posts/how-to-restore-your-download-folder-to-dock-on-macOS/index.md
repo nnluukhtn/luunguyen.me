@@ -4,7 +4,8 @@ date: 2019-06-19T17:06:36+07:00
 draft: false
 tags:
   - macOS-tips
-images: [macOS-download-dock.jpg]
+images:
+  - macOS-download-dock.jpg
 ---
 
 {{< figure

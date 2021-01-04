@@ -2,11 +2,14 @@
 title: "Coworking Spaces vs Private Offices"
 date: 2019-06-06T16:31:57+07:00
 draft: false
-tags: [building Hubble Vietnam team]
+tags:
+  - Hubble-Vietnam
+  - management
+  - leadership
 ---
 
 {{< figure
-img="wework-offices-1200x800.jpg"
+src="wework-offices-1200x800.jpg"
 caption="WeWork Champs-Élysées Coworking Offices – Paris. [Credits](https://officesnapshots.com/2018/08/06/wework-champs-elysees-coworking-offices-paris/)."
 command="Original" >}}
 
@@ -61,7 +64,7 @@ At the end of the day, there is not a one-size-fits-all solution. Both won't wor
 _For us, we are rapidly fast growing team and we want to have fully customization. Also we favor the privacy. That's why we choose the private office. It's now located at **[Charmington La Pointe, 181 Cao Thang St #4-40, Ward 12, District 10, Ho Chi Minh City, Vietnam 700000](https://goo.gl/maps/JtmJdEhBibM2)**. If you are near by, feel free to ping us, we would love to have you visit our office :wave:._
 
 {{< figure
-img="Saigon office on the first day.jpg"
+src="Saigon office on the first day.JPG"
 caption="Our HCMC office on the first day."
 command="Original" >}}
 

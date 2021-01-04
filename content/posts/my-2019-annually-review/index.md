@@ -2,11 +2,12 @@
 title: "My 2019 Annually Review"
 date: 2019-12-31T16:00:41+07:00
 draft: false
-tags: [my-annually-review]
+tags:
+  - annually-review
 ---
 
 {{< figure
-img="Advance-Happy-New-Year-2020.jpg"
+src="Advance-Happy-New-Year-2020.jpg"
 caption="Advance Happy New Year 2020! [Credits](https://alleventsio.com/pictures-images/happy-new-year-2020/)."
 command="Original" >}}
 
@@ -18,14 +19,14 @@ The only one different thing is that I gonna publish a blog post instead of usin
 **Building up [Hubble](https://hubble.sg) Saigon team.** Early of 2019, I took remote contract job at [90seconds](https://90seconds.com/) after left [honestbee](https://honestbee.sg) (I leant a lot and met a lot of super stars from that company). Remote working gives me more flexibilities. I have more times with my family, more coffee times (cups and shops). But few months later, I felt missing somethings: startup spirit, working with a team. I want to contribute more and take more responsibilities as well. Luckily, [@SJ](https://sg.linkedin.com/in/shijinglin) contacted, flew down to Saigon and asked me to build Saigon team. It's such a good moment. I am learning a lot across fields: _hiring_, _administration_, _management_, _leadership_.
 
 {{< figure
-img="Saigon YEP 2019.jpg"
+src="Saigon YEP 2019.jpg"
 caption="Our Saigon team YEP to goodbye 2019."
 command="Original" >}}
 
 **My daughter.** Thank you my parents-in-law for supporting us on taking care of #nhim (our daughter). And a big shout out to my wife for bringing #nhim to the world, growing up with her. We're on track on that part. Now she knows and can speak a lot of words both in English and Vietnamese.
 
 {{< figure
-img="Nhim.jpg"
+src="Nhim.JPG"
 caption="My daughter -- #nhim"
 command="Original" >}}
 
